@@ -1,0 +1,7 @@
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\bin\Debug\Calculadora.ConsoleLuanApp.exe.config
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\bin\Debug\Calculadora.ConsoleLuanApp.exe
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\bin\Debug\Calculadora.ConsoleLuanApp.pdb
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\obj\Debug\Calculadora.ConsoleLuanApp.csprojAssemblyReference.cache
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\obj\Debug\Calculadora.ConsoleLuanApp.csproj.CoreCompileInputs.cache
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\obj\Debug\Calculadora.ConsoleLuanApp.exe
+C:\Users\luans\Desktop\Acd.Programador\Calculadora.ConsoleLuanApp\obj\Debug\Calculadora.ConsoleLuanApp.pdb
